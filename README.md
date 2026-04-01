@@ -64,9 +64,9 @@ I gravitate toward problems where **performance, security, and reliability** are
 ## 📊 GitHub Stats
 
 ![Sumit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sumitInovate&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitInovate&layout=compact&theme=github_dark&hide_border=true)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitInovate&theme=github_dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sumitInovate&theme=github-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumitInovate&layout=compact&theme=github_dark&hide_border=true)
  
 ---
 
